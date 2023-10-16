@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b510d027.chunk.css",
-    "main.js": "/portfolio/static/js/main.2e2ed91b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2e2ed91b.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d38b3d11.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d38b3d11.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b852ef82.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b852ef82.js.map",
     "static/css/2.2280284b.chunk.css": "/portfolio/static/css/2.2280284b.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.2280284b.chunk.css.map": "/portfolio/static/css/2.2280284b.chunk.css.map",
     "static/css/main.b510d027.chunk.css.map": "/portfolio/static/css/main.b510d027.chunk.css.map",
     "static/js/2.0339bb77.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0339bb77.chunk.js.LICENSE.txt",
-    "static/media/FullStackDeveloper.23dff0b2.pdf": "/portfolio/static/media/FullStackDeveloper.23dff0b2.pdf",
+    "static/media/FullStackDeveloper.55b280d4.pdf": "/portfolio/static/media/FullStackDeveloper.55b280d4.pdf",
     "static/media/airstudio-logo.4e072659.png": "/portfolio/static/media/airstudio-logo.4e072659.png",
     "static/media/developer.23e159be.jpg": "/portfolio/static/media/developer.23e159be.jpg",
     "static/media/newlogo.ade1ede4.jpg": "/portfolio/static/media/newlogo.ade1ede4.jpg",
@@ -24,6 +24,6 @@
     "static/css/2.2280284b.chunk.css",
     "static/js/2.0339bb77.chunk.js",
     "static/css/main.b510d027.chunk.css",
-    "static/js/main.2e2ed91b.chunk.js"
+    "static/js/main.d38b3d11.chunk.js"
   ]
 }
